@@ -1,1 +1,1 @@
-print("Hello from GitHub upload tool!")
+print("Hello")
